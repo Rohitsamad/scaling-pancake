@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scaling-pancake/static/css/main.68785a8c.chunk.css",
+    "main.js": "/scaling-pancake/static/js/main.59f07e85.chunk.js",
+    "main.js.map": "/scaling-pancake/static/js/main.59f07e85.chunk.js.map",
+    "runtime-main.js": "/scaling-pancake/static/js/runtime-main.9fd49486.js",
+    "runtime-main.js.map": "/scaling-pancake/static/js/runtime-main.9fd49486.js.map",
+    "static/js/2.d242dad1.chunk.js": "/scaling-pancake/static/js/2.d242dad1.chunk.js",
+    "static/js/2.d242dad1.chunk.js.map": "/scaling-pancake/static/js/2.d242dad1.chunk.js.map",
+    "static/js/3.4ecc3bab.chunk.js": "/scaling-pancake/static/js/3.4ecc3bab.chunk.js",
+    "static/js/3.4ecc3bab.chunk.js.map": "/scaling-pancake/static/js/3.4ecc3bab.chunk.js.map",
+    "index.html": "/scaling-pancake/index.html",
+    "static/css/main.68785a8c.chunk.css.map": "/scaling-pancake/static/css/main.68785a8c.chunk.css.map",
+    "static/js/2.d242dad1.chunk.js.LICENSE.txt": "/scaling-pancake/static/js/2.d242dad1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fd49486.js",
+    "static/js/2.d242dad1.chunk.js",
+    "static/css/main.68785a8c.chunk.css",
+    "static/js/main.59f07e85.chunk.js"
+  ]
+}
